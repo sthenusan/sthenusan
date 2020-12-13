@@ -5,7 +5,7 @@
 
 - :blush: I'm Thenusan, An Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
 - :computer: I am an intern @WSO2 Identity Access Management Team.
-- 🔭 I’m currently working on User Session Persistence with Scalable Memory System Project @WSO2
+- 🔭 I’m currently working on User Session persistence with a scalable, highly available data store (Redis) Project @WSO2
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sthenusan)
 - :pencil2:  I blog in : [Thenusan Blogs](https://sthenusan.medium.com/)
 <!---- 😄 Pronouns: ...
