@@ -20,8 +20,8 @@
 
 Latest Blogs:
 
-![](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/1)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/0)
+![my_blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/1)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/4)
 ![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/5)
 ![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/6)
 ![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/7)
