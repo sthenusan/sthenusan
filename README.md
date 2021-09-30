@@ -15,8 +15,6 @@
 - 🤔 I’m looking for help with ...-->
 
 ![Thenusan's github stats](https://github-readme-stats.vercel.app/api?username=sthenusan&show_icons=true&theme=radical)
-
-<p align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sthenusan&layout=compact&theme=material-palenight"  alt="Thenusan_S" />
   
 **Languages and Tools:**  
 
