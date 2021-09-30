@@ -16,7 +16,8 @@
 
 ![Thenusan's github stats](https://github-readme-stats.vercel.app/api?username=sthenusan&show_icons=true&theme=radical)
 
-
+<p align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sthenusan&layout=compact&theme=material-palenight"  alt="Thenusan_S" />
+  
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
