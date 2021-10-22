@@ -9,11 +9,12 @@
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sthenusan)
 - :pencil2:  I blog in : [Thenusan Blogs](https://sthenusan.medium.com/)
 - 🌱 I’m currently working on the Final Year Project as an Undergraduate on Driver Quality Parameter Extraction for Ride hailing Services.
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
-
+-->
 ![Thenusan's github stats](https://github-readme-stats.vercel.app/api?username=sthenusan&show_icons=true&theme=radical)
   
 **Languages and Tools:**  
