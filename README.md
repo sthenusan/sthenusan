@@ -5,24 +5,11 @@
 - 🔭 I worked on User Session persistence with a scalable, highly available data store (Redis) [Project](https://github.com/wso2/product-is/issues/10453) in [product-is](https://github.com/wso2/product-is) @WSO2 as Software Engineering Intern (05.10.2020 to 21.04.2021 for 7 Months)
 - 🌱 My Final Year [Project](https://github.com/sthenusan/Hunters-FYP-Ride_Hailing-QoS) as an Undergraduate is Driver Quality of Service Parameter Extraction for Ride hailing Services.
 
+<br />
 
 ### 📈 My GitHub Stats 
 
 ![Thenusan's github stats](https://github-readme-stats.vercel.app/api?username=sthenusan&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sthenusan)](https://git.io/streak-stats)
-
-<br />
-
-### Some Tools & Technologies I Have Used
-
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <br />
 
