@@ -3,7 +3,7 @@
 - :blush: I'm Thenusan, An Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
 - :computer: Former intern @WSO2 Identity Access Management Team.
 - 🔭 I worked on User Session persistence with a scalable, highly available data store (Redis) [Project](https://github.com/wso2/product-is/issues/10453) in [product-is](https://github.com/wso2/product-is) @WSO2 Intern Priod (05.10.2020 to 21.04.2021 for 7 Months)
-- 🌱 I’m currently working on the Final Year Project as an Undergraduate on Driver Quality Parameter Extraction for Ride hailing Services.
+- 🌱 My Final Year Project as an Undergraduate is Driver Quality Parameter Extraction for Ride hailing Services.
 
 
 ### 📈 My GitHub Stats 
