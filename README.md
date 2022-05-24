@@ -13,20 +13,6 @@
 
 <br />
 
-### :memo: Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-![my_blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/0)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/1)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/2)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/3)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/4)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@sthenusan/5)
-
-<!-- BLOG-POST-LIST:END -->
-
-<p>Read more blog posts <a href="https://sthenusan.medium.com">here</a>.</p>
 
 <br />
 
