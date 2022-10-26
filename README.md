@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- :blush: I'm Thenusan, An Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
+- :blush: I'm Thenusan, A Graduate, Department of Computer Science and Engineering, University of Moratuwa.
+- :computer: Software Engineer @WSO2 Open Healthcare Team.
 - :computer: Former intern @WSO2 Identity Access Management Team.
 - 🔭 I worked on User Session persistence with a scalable, highly available data store (Redis) [Project](https://github.com/wso2/product-is/issues/10453) in [product-is](https://github.com/wso2/product-is) @WSO2 as Software Engineering Intern (05.10.2020 to 21.04.2021 for 7 Months)
 - 🌱 My Final Year [Project](https://github.com/sthenusan/Hunters-FYP-Ride_Hailing-QoS) as an Undergraduate is Driver Quality of Service Parameter Extraction for Ride hailing Services.
