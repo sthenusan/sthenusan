@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **WSO2 Open Healthcare Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sthenusan](https://github.com/sthenusan)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/sthenusan)
 
-- 📝 I regularly write articles on [https://sthenusan.medium.com/](https://sthenusan.medium.com/)
+- 📝 I regularly write articles on [Medium](https://sthenusan.medium.com/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/sthenusan/**
 
