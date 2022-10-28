@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/sthenusan/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sthenusan/](https://www.linkedin.com/in/sthenusan/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sthenusan/)
 
 - ⚡ Fun fact **I am a Cricket Lover**
 
