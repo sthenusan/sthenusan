@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium](https://sthenusan.medium.com/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/sthenusan/**
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/sthenusan/)
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sthenusan/)
 
