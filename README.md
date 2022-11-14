@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sthenusan/)
 
-- ⚡ Fun fact **I am a Cricket Lover**
+- ⚡ Fun fact **I am a Cricket Lover. Like to play, watch and talk cricket **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
