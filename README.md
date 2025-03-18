@@ -21,7 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-![Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=theenuusan&limit=5&theme=tokyonight)
+![Medium Posts](https://github-readme-medium-card.vercel.app/api/getMediumBlogs?username=theenuusan&limit=5&theme=tokyonight)
+
 
 <!-- BLOG-POST-LIST:END -->
 
