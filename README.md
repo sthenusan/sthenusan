@@ -16,9 +16,10 @@
 - ⚡ Fun fact: **I'm a Cricket Lover – love playing, watching, and discussing cricket!**  
 
 ---
-
 ### 📚 Blog Posts  
-![Medium Posts](https://github-readme-medium-card.vercel.app/api/getMediumBlogs?username=theenuusan&limit=5&theme=tokyonight)  
+<!-- BLOG-POST-LIST:START -->
+[![Medium Posts](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=theenuusan&limit=5&theme=tokyonight)](https://theenuusan.medium.com/)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
