@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sthenusan" alt="sthenusan" /></a> </p>
 
 
-- 🔭 I’m worked on **WSO2 Open Healthcare Projects** at WSO2
+- 🔭 I worked on **WSO2 Open Healthcare Projects** at WSO2
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sthenusan)
 
