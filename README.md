@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Worked on **WSO2 Open Healthcare Projects** at WSO2  
 - 🎓 Currently pursuing a **Master's in IT at Deakin University**  
+- 🔭 Worked on **WSO2 Open Healthcare Projects** at WSO2  
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/sthenusan)  
 - 📝 I regularly write articles on [Medium](https://theenuusan.medium.com/)  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sthenusan/)  
@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://twitter.com/thenusan97" target="_blank">
+  <a href="https://x.com/theenuusan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenusan97" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/sthenusan" target="_blank">
@@ -85,15 +85,3 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sthenusan&show_icons=true&theme=tokyonight" alt="sthenusan" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthenusan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sthenusan" />
-</p>
-
----
