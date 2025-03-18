@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sthenusan)
 
-- 📝 I regularly write articles on [Medium](https://sthenusan.medium.com/)
+- 📝 I regularly write articles on [Medium](https://theenuusan.medium.com/)
 
 - 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/sthenusan/)
 
