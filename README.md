@@ -28,10 +28,10 @@
   <a href="https://fb.com/thenusan santhirakumar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thenusan santhirakumar" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sthenusan11" target="_blank">
+  <a href="https://instagram.com/thenusan27" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sthenusan11" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@sthenusan" target="_blank">
+  <a href="https://theenuusan.medium.com/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sthenusan" height="30" width="40" />
   </a>
 </p>
